@@ -1,0 +1,2321 @@
+FINE [ 06-02-2015 16:35:32 ] : Client nou (-35) : mihaicux
+
+FINE [ 06-02-2015 16:35:32 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:33 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:34 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:35 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:36 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:37 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:39 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:40 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:40 ] : /msg mihai re
+
+FINE [ 06-02-2015 16:35:40 ] : mihaicux catre mihai : re
+
+FINE [ 06-02-2015 16:35:40 ] : (ERR : client inexistent)
+
+FINE [ 06-02-2015 16:35:41 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:42 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:43 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:44 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:45 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:46 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:46 ] : /msg mihaicux re
+
+FINE [ 06-02-2015 16:35:46 ] : mihaicux catre mihaicux : re
+
+FINE [ 06-02-2015 16:35:46 ] : (OK)
+
+FINE [ 06-02-2015 16:35:46 ] : mihaicux : re
+
+FINE [ 06-02-2015 16:35:47 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:48 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:35:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:03 ] : Client nou (-34) : mihai
+
+FINE [ 06-02-2015 16:36:03 ] : [SERVER] mihai a intrat
+
+FINE [ 06-02-2015 16:36:03 ] : mihai : /list
+
+FINE [ 06-02-2015 16:36:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:04 ] : mihai : /list
+
+FINE [ 06-02-2015 16:36:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:05 ] : mihai : /list
+
+FINE [ 06-02-2015 16:36:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:06 ] : mihai : /list
+
+FINE [ 06-02-2015 16:36:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:07 ] : mihai : /list
+
+FINE [ 06-02-2015 16:36:08 ] : mihaicux : /list
+
+EXCEPTION [ 06-02-2015 16:36:08 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 06-02-2015 16:36:08 ] : mihai a iesit
+
+FINE [ 06-02-2015 16:36:08 ] : mihai a iesit
+
+FINE [ 06-02-2015 16:36:08 ] : Serverul se inchide
+
+FINE [ 06-02-2015 16:36:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:10 ] : mihaicux : /list
+
+EXCEPTION [ 06-02-2015 16:36:10 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 06-02-2015 16:36:10 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 16:36:10 ] : Serverul se inchide
+
+FINE [ 06-02-2015 16:36:15 ] : SERVERUL SE INCHIDE...
+
+FINE [ 06-02-2015 16:36:15 ] : Socket closed
+
+EXCEPTION [ 06-02-2015 16:36:15 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 06-02-2015 16:36:36 ] : Connected to MySQL Database...
+
+FINE [ 06-02-2015 16:36:49 ] : Client nou (1) : mihaicux
+
+FINE [ 06-02-2015 16:36:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:57 ] : /msg mihaicux re
+
+FINE [ 06-02-2015 16:36:57 ] : mihaicux catre mihaicux : re
+
+FINE [ 06-02-2015 16:36:57 ] : (OK)
+
+FINE [ 06-02-2015 16:36:57 ] : re
+
+FINE [ 06-02-2015 16:36:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:36:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:13 ] : Client nou (2) : mihai
+
+FINE [ 06-02-2015 16:37:13 ] : [SERVER] mihai a intrat
+
+FINE [ 06-02-2015 16:37:13 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:14 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:15 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:16 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:17 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:18 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:19 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:21 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:21 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:22 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:22 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:23 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:23 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:24 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:24 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:25 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:25 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:26 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:26 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:27 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:27 ] : /msg mihaicux re
+
+FINE [ 06-02-2015 16:37:27 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:27 ] : mihai catre mihaicux : re
+
+FINE [ 06-02-2015 16:37:27 ] : (OK)
+
+FINE [ 06-02-2015 16:37:27 ] : re
+
+FINE [ 06-02-2015 16:37:28 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:28 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:29 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:29 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:30 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:30 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:31 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:31 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:32 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:32 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:33 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:33 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:34 ] : /msg mihaicux noroc
+
+FINE [ 06-02-2015 16:37:34 ] : mihaicux catre mihaicux : noroc
+
+FINE [ 06-02-2015 16:37:34 ] : (OK)
+
+FINE [ 06-02-2015 16:37:34 ] : noroc
+
+FINE [ 06-02-2015 16:37:34 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:34 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:35 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:35 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:36 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:36 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:37 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:37 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:38 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:38 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:39 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:39 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:40 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:40 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:41 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:41 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:42 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:42 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:43 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:43 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:44 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:44 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:45 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:45 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:46 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:46 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:47 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:47 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:48 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:48 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:49 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:50 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:51 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:52 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:53 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:54 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:55 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:56 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:57 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:58 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:37:59 ] : mihai : /list
+
+FINE [ 06-02-2015 16:37:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:00 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:01 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:02 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:03 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:04 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:05 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:06 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:07 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:08 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:09 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:10 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:11 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:11 ] : /mihai re
+
+FINE [ 06-02-2015 16:38:11 ] : mihaicux : /mihai re
+
+FINE [ 06-02-2015 16:38:12 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:13 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:14 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:15 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:16 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:17 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:18 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:19 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:20 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:21 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:21 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:38:21 ] : Serverul se inchide
+
+EXCEPTION [ 06-02-2015 16:38:21 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:242)
+
+
+FINE [ 06-02-2015 16:38:21 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 16:38:21 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 16:38:22 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:23 ] : mihai : /list
+
+FINE [ 06-02-2015 16:38:23 ] : Serverul se inchide
+
+EXCEPTION [ 06-02-2015 16:38:23 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:242)
+
+
+FINE [ 06-02-2015 16:38:23 ] : mihai a iesit
+
+FINE [ 06-02-2015 16:40:45 ] : Client nou (-1) : mihai
+
+FINE [ 06-02-2015 16:40:45 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:46 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:47 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:48 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:49 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:50 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:51 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:52 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:53 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:54 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:55 ] : Client nou (0) : mihaicux
+
+FINE [ 06-02-2015 16:40:55 ] : [SERVER] mihaicux a intrat
+
+FINE [ 06-02-2015 16:40:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:40:55 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:40:56 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:40:57 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:40:58 ] : mihai : /list
+
+FINE [ 06-02-2015 16:40:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:40:59 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:00 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:01 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:02 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:03 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:04 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:05 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:06 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:07 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:08 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:09 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:10 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:11 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:12 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:13 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:14 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:15 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:16 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:17 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:18 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:19 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:20 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:21 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:21 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:22 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:22 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:23 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:23 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:24 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:24 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:25 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:25 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:26 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:26 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:27 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:27 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:28 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:28 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:29 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:29 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:30 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:30 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:31 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:31 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:32 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:32 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:33 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:33 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:34 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:34 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:35 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:35 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:36 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:36 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:37 ] : /msg mihaicux re
+
+FINE [ 06-02-2015 16:41:37 ] : mihai catre mihaicux : re
+
+FINE [ 06-02-2015 16:41:37 ] : (OK)
+
+FINE [ 06-02-2015 16:41:37 ] : re
+
+FINE [ 06-02-2015 16:41:37 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:37 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:38 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:38 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:39 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:39 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:40 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:40 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:41 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:41 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:42 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:42 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:43 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:43 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:44 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:44 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:45 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:45 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:46 ] : /msg mihai salut
+
+FINE [ 06-02-2015 16:41:46 ] : mihaicux catre mihai : salut
+
+FINE [ 06-02-2015 16:41:46 ] : (OK)
+
+FINE [ 06-02-2015 16:41:46 ] : salut
+
+FINE [ 06-02-2015 16:41:46 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:46 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:47 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:47 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:48 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:49 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:50 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:51 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:52 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:53 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:53 ] : /msg mihai noroc
+
+FINE [ 06-02-2015 16:41:53 ] : mihaicux catre mihai : noroc
+
+FINE [ 06-02-2015 16:41:53 ] : noroc
+
+FINE [ 06-02-2015 16:41:53 ] : (OK)
+
+FINE [ 06-02-2015 16:41:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:54 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:55 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:56 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:57 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:58 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:41:59 ] : mihai : /list
+
+FINE [ 06-02-2015 16:41:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:00 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:01 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:02 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:03 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:04 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:04 ] : /msg mihaicux re
+
+FINE [ 06-02-2015 16:42:04 ] : mihaicux catre mihaicux : re
+
+FINE [ 06-02-2015 16:42:04 ] : (OK)
+
+FINE [ 06-02-2015 16:42:04 ] : re
+
+FINE [ 06-02-2015 16:42:05 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:06 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:07 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:08 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:09 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:10 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:11 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:12 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:13 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:14 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:14 ] : /msg mihai noroc
+
+FINE [ 06-02-2015 16:42:14 ] : mihaicux catre mihai : noroc
+
+FINE [ 06-02-2015 16:42:14 ] : (OK)
+
+FINE [ 06-02-2015 16:42:14 ] : noroc
+
+FINE [ 06-02-2015 16:42:15 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:16 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:17 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:18 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:19 ] : mihai : /list
+
+FINE [ 06-02-2015 16:42:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:20 ] : mihai : /list
+
+EXCEPTION [ 06-02-2015 16:42:20 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:242)
+
+
+FINE [ 06-02-2015 16:42:20 ] : Serverul se inchide
+
+FINE [ 06-02-2015 16:42:20 ] : mihai a iesit
+
+FINE [ 06-02-2015 16:42:20 ] : mihai a iesit
+
+FINE [ 06-02-2015 16:42:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:42:21 ] : mihaicux : /list
+
+EXCEPTION [ 06-02-2015 16:42:22 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:242)
+
+
+FINE [ 06-02-2015 16:42:22 ] : Serverul se inchide
+
+FINE [ 06-02-2015 16:42:22 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 16:43:45 ] : SERVERUL SE INCHIDE...
+
+FINE [ 06-02-2015 16:43:45 ] : Socket closed
+
+EXCEPTION [ 06-02-2015 16:43:45 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 06-02-2015 16:43:51 ] : Connected to MySQL Database...
+
+FINE [ 06-02-2015 16:44:26 ] : Client nou (1) : mihai
+
+FINE [ 06-02-2015 16:44:26 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:27 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:28 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:29 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:30 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:31 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:32 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:33 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:34 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:35 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:36 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:37 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:37 ] : Client nou (2) : mihaicux
+
+FINE [ 06-02-2015 16:44:37 ] : [SERVER] mihaicux a intrat
+
+FINE [ 06-02-2015 16:44:38 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:38 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:39 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:39 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:40 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:40 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:41 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:41 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:42 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:42 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:43 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:43 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:44 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:44 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:45 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:45 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:46 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:46 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:47 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:47 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:48 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:48 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:49 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:50 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:51 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:52 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:53 ] : /msg mihaicux noroc
+
+FINE [ 06-02-2015 16:44:53 ] : mihai catre mihaicux : noroc
+
+FINE [ 06-02-2015 16:44:53 ] : (OK)
+
+FINE [ 06-02-2015 16:44:53 ] : noroc
+
+FINE [ 06-02-2015 16:44:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:53 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:54 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:55 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:56 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:57 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:58 ] : mihai : /list
+
+FINE [ 06-02-2015 16:44:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:44:59 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:00 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:01 ] : /msg mihaicux re
+
+FINE [ 06-02-2015 16:45:01 ] : mihai catre mihaicux : re
+
+FINE [ 06-02-2015 16:45:01 ] : re
+
+FINE [ 06-02-2015 16:45:01 ] : (OK)
+
+FINE [ 06-02-2015 16:45:01 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:02 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:03 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:04 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:05 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:06 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:07 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:08 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:09 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:10 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:11 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:12 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:13 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:14 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:15 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:16 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:17 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:18 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:19 ] : /msg mihaicux noroc
+
+FINE [ 06-02-2015 16:45:19 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:19 ] : mihai catre mihaicux : noroc
+
+FINE [ 06-02-2015 16:45:19 ] : noroc
+
+FINE [ 06-02-2015 16:45:19 ] : (OK)
+
+FINE [ 06-02-2015 16:45:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:20 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:21 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:21 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:22 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:22 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:23 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:23 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:24 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:24 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:25 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:25 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:26 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:26 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:27 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:27 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:28 ] : /msg mihai re
+
+FINE [ 06-02-2015 16:45:28 ] : mihaicux catre mihai : re
+
+FINE [ 06-02-2015 16:45:28 ] : (OK)
+
+FINE [ 06-02-2015 16:45:28 ] : re
+
+FINE [ 06-02-2015 16:45:28 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:28 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:29 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:29 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:30 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:30 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:31 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:31 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:32 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:32 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:33 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:33 ] : /msg mihai noroc
+
+FINE [ 06-02-2015 16:45:33 ] : mihaicux catre mihai : noroc
+
+FINE [ 06-02-2015 16:45:33 ] : (OK)
+
+FINE [ 06-02-2015 16:45:33 ] : noroc
+
+FINE [ 06-02-2015 16:45:33 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:34 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:34 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:35 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:35 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:36 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:36 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:37 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:37 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:38 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:38 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:39 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:39 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:40 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:40 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:41 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:41 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:42 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:42 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:43 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:43 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:44 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:44 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:45 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:45 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:46 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:46 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:47 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:47 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:48 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:48 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:49 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:50 ] : /msg mihaicux salutis
+
+FINE [ 06-02-2015 16:45:50 ] : mihaicux catre mihaicux : salutis
+
+FINE [ 06-02-2015 16:45:50 ] : (OK)
+
+FINE [ 06-02-2015 16:45:50 ] : salutis
+
+FINE [ 06-02-2015 16:45:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:50 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:51 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:52 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:53 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:54 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:55 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:56 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:58 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:59 ] : mihai : /list
+
+FINE [ 06-02-2015 16:45:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:45:59 ] : /msg mihaicux re
+
+FINE [ 06-02-2015 16:45:59 ] : mihaicux catre mihaicux : re
+
+FINE [ 06-02-2015 16:45:59 ] : (OK)
+
+FINE [ 06-02-2015 16:45:59 ] : re
+
+FINE [ 06-02-2015 16:46:00 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:01 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:02 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:03 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:04 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:05 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:06 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:07 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:08 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:09 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:10 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:11 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:12 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:13 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:13 ] : /msg mihai re
+
+FINE [ 06-02-2015 16:46:13 ] : mihaicux catre mihai : re
+
+FINE [ 06-02-2015 16:46:13 ] : (OK)
+
+FINE [ 06-02-2015 16:46:13 ] : re
+
+FINE [ 06-02-2015 16:46:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:14 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:15 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:16 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:17 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:18 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:19 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 16:46:19 ] : Serverul se inchide
+
+EXCEPTION [ 06-02-2015 16:46:19 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:243)
+
+
+FINE [ 06-02-2015 16:46:19 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 16:46:19 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 16:46:20 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:21 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:22 ] : mihai : /list
+
+FINE [ 06-02-2015 16:46:22 ] : Serverul se inchide
+
+EXCEPTION [ 06-02-2015 16:46:22 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:243)
+
+
+FINE [ 06-02-2015 16:46:22 ] : mihai a iesit
+
+FINE [ 06-02-2015 17:02:03 ] : Client nou (-1) : mihai
+
+FINE [ 06-02-2015 17:02:03 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:05 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:06 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:07 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:08 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:09 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:10 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:11 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:12 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:12 ] : Client nou (0) : mihaicux
+
+FINE [ 06-02-2015 17:02:12 ] : [SERVER] mihaicux a intrat
+
+FINE [ 06-02-2015 17:02:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:13 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:14 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:15 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:16 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:17 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:17 ] : re
+
+FINE [ 06-02-2015 17:02:17 ] : mihaicux : re
+
+FINE [ 06-02-2015 17:02:18 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:19 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:20 ] : mihaicux catre null : re
+
+FINE [ 06-02-2015 17:02:20 ] : (ERR : client inexistent)
+
+FINE [ 06-02-2015 17:02:20 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:21 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:21 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:22 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:22 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:23 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:23 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:24 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:24 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:25 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:25 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:26 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:26 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:27 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:27 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:28 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:28 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:29 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:29 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:30 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:30 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:31 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:31 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:32 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:32 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:33 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:33 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:34 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:34 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:35 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:35 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:36 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:36 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:37 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:37 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:38 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:38 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:39 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:39 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:40 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:40 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:41 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:41 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:42 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:42 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:43 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:43 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:44 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:44 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:45 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:45 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:46 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:46 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:47 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:47 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:48 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:48 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:49 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:50 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:51 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:52 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:53 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:54 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:55 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:56 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:57 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:58 ] : mihai : /list
+
+FINE [ 06-02-2015 17:02:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:02:59 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:00 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:01 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:02 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:03 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:04 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:05 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:06 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:07 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:08 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:09 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:10 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:11 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:12 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:13 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:14 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:15 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:16 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:17 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:18 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:19 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:20 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:21 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:21 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:22 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:22 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:23 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:23 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:24 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:24 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:25 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:25 ] : mihaicux catre null : re
+
+FINE [ 06-02-2015 17:03:25 ] : (ERR : client inexistent)
+
+FINE [ 06-02-2015 17:03:25 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:26 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:26 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:27 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:27 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:28 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:28 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:29 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:29 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:30 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:03:30 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:31 ] : mihaicux : /list
+
+EXCEPTION [ 06-02-2015 17:03:31 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:243)
+
+
+FINE [ 06-02-2015 17:03:31 ] : Serverul se inchide
+
+FINE [ 06-02-2015 17:03:31 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 17:03:31 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 17:03:31 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:32 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:33 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:34 ] : mihai : /list
+
+EXCEPTION [ 06-02-2015 17:03:34 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:243)
+
+
+FINE [ 06-02-2015 17:03:34 ] : mihai a iesit
+
+FINE [ 06-02-2015 17:03:54 ] : Client nou (-3) : mihai
+
+FINE [ 06-02-2015 17:03:54 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:55 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:56 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:57 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:58 ] : mihai : /list
+
+FINE [ 06-02-2015 17:03:59 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:00 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:01 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:02 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:03 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:04 ] : Client nou (-2) : mihaicux
+
+FINE [ 06-02-2015 17:04:04 ] : [SERVER] mihaicux a intrat
+
+FINE [ 06-02-2015 17:04:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:04 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:05 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:07 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:08 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:09 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:10 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:11 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:11 ] : mihaicux catre mihai : re
+
+FINE [ 06-02-2015 17:04:11 ] : (OK)
+
+FINE [ 06-02-2015 17:04:11 ] : re
+
+FINE [ 06-02-2015 17:04:12 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:13 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:14 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:15 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:16 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:17 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:17 ] : mihai catre mihaicux : noroc
+
+FINE [ 06-02-2015 17:04:17 ] : (OK)
+
+FINE [ 06-02-2015 17:04:17 ] : noroc
+
+FINE [ 06-02-2015 17:04:17 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:18 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:18 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:19 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:19 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:20 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:20 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:21 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:21 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:22 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:22 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:23 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:23 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:24 ] : mihai catre mihaicux : ce faci varule?
+
+FINE [ 06-02-2015 17:04:24 ] : (OK)
+
+FINE [ 06-02-2015 17:04:24 ] : ce faci varule?
+
+FINE [ 06-02-2015 17:04:24 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:24 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:25 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:25 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:26 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:26 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:27 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:27 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:28 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:28 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:29 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:29 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:29 ] : bine
+
+FINE [ 06-02-2015 17:04:29 ] : mihaicux : bine
+
+FINE [ 06-02-2015 17:04:30 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:30 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:31 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:31 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:32 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:32 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:33 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:33 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:34 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:34 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:35 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:35 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:36 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:36 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:37 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:37 ] : re
+
+FINE [ 06-02-2015 17:04:37 ] : mihai : re
+
+FINE [ 06-02-2015 17:04:37 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:38 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:38 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:39 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:39 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:40 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:40 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:41 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:41 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:41 ] : mihai catre mihai : 
+
+FINE [ 06-02-2015 17:04:41 ] : (OK)
+
+FINE [ 06-02-2015 17:04:41 ] : 
+
+FINE [ 06-02-2015 17:04:42 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:42 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:43 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:43 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:44 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:44 ] : /help
+
+FINE [ 06-02-2015 17:04:44 ] : mihai : /help
+
+FINE [ 06-02-2015 17:04:44 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:45 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:45 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:46 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:46 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:47 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:47 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:48 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:48 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:49 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:49 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:50 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:50 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:51 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:51 ] : /msg mihai noroc
+
+FINE [ 06-02-2015 17:04:51 ] : mihai catre mihai : noroc
+
+FINE [ 06-02-2015 17:04:51 ] : (OK)
+
+FINE [ 06-02-2015 17:04:51 ] : noroc
+
+FINE [ 06-02-2015 17:04:51 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:52 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:52 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:53 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:53 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:54 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:54 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:55 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:55 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:56 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:56 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:57 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:57 ] : /msg mihaicux noroc
+
+FINE [ 06-02-2015 17:04:57 ] : mihai catre mihaicux : noroc
+
+FINE [ 06-02-2015 17:04:57 ] : (OK)
+
+FINE [ 06-02-2015 17:04:57 ] : noroc
+
+FINE [ 06-02-2015 17:04:57 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:58 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:58 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:04:59 ] : mihai : /list
+
+FINE [ 06-02-2015 17:04:59 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:00 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:00 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:01 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:01 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:02 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:02 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:03 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:03 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:04 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:04 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:05 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:05 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:06 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:06 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:07 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:07 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:08 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:08 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:09 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:09 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:10 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:10 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:11 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:11 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:12 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:12 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:13 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:13 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:14 ] : mihai : /list
+
+FINE [ 06-02-2015 17:05:14 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:15 ] : mihai : /list
+
+EXCEPTION [ 06-02-2015 17:05:15 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:243)
+
+
+FINE [ 06-02-2015 17:05:15 ] : mihai a iesit
+
+FINE [ 06-02-2015 17:05:15 ] : Serverul se inchide
+
+FINE [ 06-02-2015 17:05:15 ] : mihai a iesit
+
+FINE [ 06-02-2015 17:05:15 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:16 ] : mihaicux : /list
+
+FINE [ 06-02-2015 17:05:17 ] : mihaicux : /list
+
+EXCEPTION [ 06-02-2015 17:05:18 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:243)
+
+
+FINE [ 06-02-2015 17:05:18 ] : Serverul se inchide
+
+FINE [ 06-02-2015 17:05:18 ] : mihaicux a iesit
+
+FINE [ 06-02-2015 17:05:27 ] : SERVERUL SE INCHIDE...
+
+FINE [ 06-02-2015 17:05:27 ] : Socket closed
+
+EXCEPTION [ 06-02-2015 17:05:27 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+

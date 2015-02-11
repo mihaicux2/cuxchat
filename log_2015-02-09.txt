@@ -1,0 +1,5170 @@
+EXCEPTION [ 09-02-2015 10:22:44 ] : java.io.FileInputStream.open(Native Method)
+java.io.FileInputStream.<init>(FileInputStream.java:138)
+java.io.FileInputStream.<init>(FileInputStream.java:93)
+sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:622)
+com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+cuxchat.ui.client.ClientRegisterUI.initDropdowns(ClientRegisterUI.java:71)
+cuxchat.ui.client.ClientRegisterUI.<init>(ClientRegisterUI.java:58)
+cuxchat.ui.client.ClientRegisterUI$17.run(ClientRegisterUI.java:775)
+java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:749)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:719)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+EXCEPTION [ 09-02-2015 10:22:59 ] : java.io.FileInputStream.open(Native Method)
+java.io.FileInputStream.<init>(FileInputStream.java:138)
+java.io.FileInputStream.<init>(FileInputStream.java:93)
+sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:622)
+com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+cuxchat.ui.client.ClientRegisterUI.initDropdowns(ClientRegisterUI.java:71)
+cuxchat.ui.client.ClientRegisterUI.<init>(ClientRegisterUI.java:58)
+cuxchat.ui.client.ClientRegisterUI$17.run(ClientRegisterUI.java:775)
+java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:749)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:719)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+EXCEPTION [ 09-02-2015 10:23:08 ] : java.io.FileInputStream.open(Native Method)
+java.io.FileInputStream.<init>(FileInputStream.java:138)
+java.io.FileInputStream.<init>(FileInputStream.java:93)
+sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:622)
+com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+cuxchat.ui.client.ClientRegisterUI.initDropdowns(ClientRegisterUI.java:71)
+cuxchat.ui.client.ClientRegisterUI.<init>(ClientRegisterUI.java:58)
+cuxchat.ui.client.ClientRegisterUI$17.run(ClientRegisterUI.java:775)
+java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:749)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:719)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+EXCEPTION [ 09-02-2015 10:23:17 ] : java.io.FileInputStream.open(Native Method)
+java.io.FileInputStream.<init>(FileInputStream.java:138)
+java.io.FileInputStream.<init>(FileInputStream.java:93)
+sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:622)
+com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:205)
+cuxchat.ui.client.ClientRegisterUI.initDropdowns(ClientRegisterUI.java:71)
+cuxchat.ui.client.ClientRegisterUI.<init>(ClientRegisterUI.java:58)
+cuxchat.ui.client.ClientRegisterUI$17.run(ClientRegisterUI.java:775)
+java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:749)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:719)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 10:30:10 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 10:30:38 ] : Unexpected character ('I' (code 73)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')
+ at [Source: java.io.StringReader@4b2d695a; line: 1, column: 2]
+
+EXCEPTION [ 09-02-2015 10:30:38 ] : org.codehaus.jackson.JsonParser._constructError(JsonParser.java:1432)
+org.codehaus.jackson.impl.JsonParserMinimalBase._reportError(JsonParserMinimalBase.java:385)
+org.codehaus.jackson.impl.JsonParserMinimalBase._reportUnexpectedChar(JsonParserMinimalBase.java:306)
+org.codehaus.jackson.impl.ReaderBasedParser._handleUnexpectedValue(ReaderBasedParser.java:1192)
+org.codehaus.jackson.impl.ReaderBasedParser.nextToken(ReaderBasedParser.java:479)
+org.codehaus.jackson.map.ObjectMapper._initForReading(ObjectMapper.java:2761)
+org.codehaus.jackson.map.ObjectMapper._readMapAndClose(ObjectMapper.java:2709)
+org.codehaus.jackson.map.ObjectMapper.readTree(ObjectMapper.java:1533)
+cuxchat.Protocol.run(Protocol.java:133)
+
+
+FINE [ 09-02-2015 10:31:03 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 10:31:03 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 10:31:03 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 10:31:04 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:664)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:49)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:358)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+EXCEPTION [ 09-02-2015 10:38:08 ] : java.net.PlainSocketImpl.socketConnect(Native Method)
+java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+java.net.Socket.connect(Socket.java:589)
+java.net.Socket.connect(Socket.java:538)
+java.net.Socket.<init>(Socket.java:434)
+java.net.Socket.<init>(Socket.java:211)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:685)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 10:38:33 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 10:54:47 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 10:54:47 ] : Socket closed
+
+FINE [ 09-02-2015 10:54:47 ] : Socket closed
+
+FINE [ 09-02-2015 11:05:20 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:07:04 ] : null
+
+EXCEPTION [ 09-02-2015 11:07:04 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:131)
+
+
+FINE [ 09-02-2015 11:07:47 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:07:47 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:07:47 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:131)
+
+
+FINE [ 09-02-2015 11:07:47 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:07:47 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 11:07:54 ] : Connected to MySQL Database...
+
+EXCEPTION [ 09-02-2015 11:07:59 ] : com.mysql.jdbc.SQLError.createSQLException(SQLError.java:996)
+com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887)
+com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823)
+com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435)
+com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582)
+com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2530)
+com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1907)
+com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2141)
+com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2077)
+com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2062)
+cuxchat.ChatServer.register(ChatServer.java:163)
+cuxchat.Protocol.register(Protocol.java:71)
+cuxchat.Protocol.handleRegister(Protocol.java:96)
+cuxchat.Protocol.run(Protocol.java:143)
+
+
+FINE [ 09-02-2015 11:09:00 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:09:00 ] : Socket closed
+
+FINE [ 09-02-2015 11:09:00 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:09:00 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:129)
+
+
+EXCEPTION [ 09-02-2015 11:09:00 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 11:09:04 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:09:48 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:09:48 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:09:48 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 11:09:50 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:690)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:10:02 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:10:09 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:10:09 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:10:10 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:690)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:14:24 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:15:29 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:15:29 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:15:29 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 11:15:30 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:690)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:15:39 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:15:46 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:15:46 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:15:46 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 11:15:47 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:690)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:17:30 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:18:45 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:18:45 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:18:45 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 11:18:46 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:690)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:19:00 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:20:35 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:20:35 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:20:35 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 11:20:36 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:690)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:21:11 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:21:39 ] : S-a inregistrat un nou client : ion
+
+FINE [ 09-02-2015 11:22:40 ] : S-a inregistrat un nou client : ion
+
+FINE [ 09-02-2015 11:23:36 ] : S-a inregistrat un nou client : ion
+
+FINE [ 09-02-2015 11:23:49 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:23:49 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:23:49 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 11:23:57 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:24:16 ] : S-a inregistrat un nou client : ion
+
+FINE [ 09-02-2015 11:26:01 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:26:01 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:26:01 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 11:26:22 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:26:42 ] : S-a inregistrat un nou client : ion
+
+FINE [ 09-02-2015 11:33:16 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:33:16 ] : Socket closed
+
+FINE [ 09-02-2015 11:34:23 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:34:31 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 11:34:31 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:32 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:33 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:34 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:35 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:36 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:37 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:38 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:39 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:47 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:48 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:49 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:50 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:51 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:52 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:53 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:54 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:55 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:56 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:57 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:58 ] : ion : /list
+
+FINE [ 09-02-2015 11:34:59 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:00 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:01 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:02 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:03 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:04 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:05 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:06 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:07 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:08 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:09 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:10 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:11 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:12 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:13 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:14 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:15 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:16 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:17 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:18 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 11:35:19 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 11:35:19 ] : ion a iesit
+
+FINE [ 09-02-2015 11:35:22 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:35:22 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:35:22 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 11:35:29 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:35:39 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 11:35:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:47 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:48 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:49 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:50 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:51 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:52 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:53 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:54 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:55 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:56 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:57 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:58 ] : ion : /list
+
+FINE [ 09-02-2015 11:35:59 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:00 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:01 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:02 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:03 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:04 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:05 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:06 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:07 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:08 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:09 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:10 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:11 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:12 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:13 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:14 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:15 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:16 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:17 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:18 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:19 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:20 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:21 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:22 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:23 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:24 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:25 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:26 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:27 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:28 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:29 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:30 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:31 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:32 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:33 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:34 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:35 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:36 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:37 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:38 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:39 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:47 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:48 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:49 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:50 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:51 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:52 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:53 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:54 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:55 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:56 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:57 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:58 ] : ion : /list
+
+FINE [ 09-02-2015 11:36:59 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:00 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:01 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:02 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:03 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:04 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:05 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:06 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:07 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:08 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:09 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:10 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:11 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:12 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:13 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:14 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:15 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:16 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:17 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:18 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:19 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:20 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:21 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:22 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:23 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:24 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:25 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:26 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 11:37:26 ] : java.io.DataOutputStream.writeUTF(DataOutputStream.java:364)
+java.io.DataOutputStream.writeUTF(DataOutputStream.java:323)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:689)
+cuxchat.ui.client.ClientRegisterUI.access$500(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$13.actionPerformed(ClientRegisterUI.java:362)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:37:27 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:28 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:29 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:30 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:31 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:32 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:33 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:34 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:35 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:36 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:37 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:38 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:39 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:47 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:48 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:49 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:50 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:51 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:52 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:53 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:54 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:55 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:56 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:57 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:58 ] : ion : /list
+
+FINE [ 09-02-2015 11:37:59 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:00 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:01 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:02 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:03 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:04 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:05 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:06 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:07 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:08 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:09 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:10 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:11 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:12 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:13 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:14 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:15 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:16 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:17 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:18 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:19 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:20 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:21 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:22 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:23 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:24 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:25 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:26 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:27 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:28 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:29 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:30 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:31 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:32 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:33 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:34 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:35 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:36 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:37 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:38 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:39 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:46 ] : null
+
+EXCEPTION [ 09-02-2015 11:38:46 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:136)
+
+
+FINE [ 09-02-2015 11:38:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:38:47 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 11:38:49 ] : java.net.SocketInputStream.read(SocketInputStream.java:189)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ChatClient$reader.run(ChatClient.java:88)
+
+
+FINE [ 09-02-2015 11:43:23 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:44:47 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:44:47 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:44:47 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 11:44:48 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientLoginUI.loginBtnActionPerformed(ClientLoginUI.java:282)
+cuxchat.ui.client.ClientLoginUI.access$100(ClientLoginUI.java:26)
+cuxchat.ui.client.ClientLoginUI$5.actionPerformed(ClientLoginUI.java:160)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener$Actions.actionPerformed(BasicButtonListener.java:303)
+javax.swing.SwingUtilities.notifyAction(SwingUtilities.java:1663)
+javax.swing.JComponent.processKeyBinding(JComponent.java:2880)
+javax.swing.JComponent.processKeyBindings(JComponent.java:2927)
+javax.swing.JComponent.processKeyEvent(JComponent.java:2843)
+java.awt.Component.processEvent(Component.java:6302)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:806)
+java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1074)
+java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:945)
+java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:771)
+java.awt.Component.dispatchEventImpl(Component.java:4752)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 11:45:05 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:45:16 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 11:45:16 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:17 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:18 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:19 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:20 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:21 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:22 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:23 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:24 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:25 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:26 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:27 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:28 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:29 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:30 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:31 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:32 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:33 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:34 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:35 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:36 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:37 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:38 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:39 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:47 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:48 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:49 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:50 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:51 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:51 ] : S-a inregistrat un nou client : mihai
+
+FINE [ 09-02-2015 11:45:52 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:53 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:54 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:55 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:56 ] : Client nou (2) : mihai
+
+FINE [ 09-02-2015 11:45:56 ] : [SERVER] mihai a intrat
+
+FINE [ 09-02-2015 11:45:56 ] : mihai : /list
+
+FINE [ 09-02-2015 11:45:56 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:57 ] : mihai : /list
+
+FINE [ 09-02-2015 11:45:57 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:58 ] : mihai : /list
+
+FINE [ 09-02-2015 11:45:58 ] : ion : /list
+
+FINE [ 09-02-2015 11:45:59 ] : mihai : /list
+
+FINE [ 09-02-2015 11:45:59 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:00 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:00 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:01 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:01 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:02 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:02 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:03 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:03 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:04 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:04 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:05 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:05 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:06 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:06 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:07 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:07 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:08 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:08 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:09 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:09 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:10 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:10 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:11 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:11 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:12 ] : mihai catre ion : salut
+
+FINE [ 09-02-2015 11:46:12 ] : (OK)
+
+FINE [ 09-02-2015 11:46:12 ] : salut
+
+FINE [ 09-02-2015 11:46:12 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:12 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:13 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:13 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:14 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:14 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:15 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:15 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:16 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:16 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:16 ] : ion catre mihai : 
+
+FINE [ 09-02-2015 11:46:16 ] : 
+
+FINE [ 09-02-2015 11:46:16 ] : (OK)
+
+FINE [ 09-02-2015 11:46:17 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:17 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:18 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:18 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:19 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:19 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:20 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:20 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:20 ] : noroc
+
+FINE [ 09-02-2015 11:46:20 ] : ion : noroc
+
+FINE [ 09-02-2015 11:46:21 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:21 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:22 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:22 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:23 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:23 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:24 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:24 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:25 ] : salut
+
+FINE [ 09-02-2015 11:46:25 ] : mihai : salut
+
+FINE [ 09-02-2015 11:46:25 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:25 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:26 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:26 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:27 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:27 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:28 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:28 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:29 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:29 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:30 ] : noroc
+
+FINE [ 09-02-2015 11:46:30 ] : mihai : noroc
+
+FINE [ 09-02-2015 11:46:30 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:30 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:31 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:31 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:32 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:32 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:33 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:33 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:34 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:34 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:35 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:35 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:36 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:36 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:37 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:37 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:38 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:38 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:39 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:39 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:40 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:41 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:42 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:43 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:44 ] : mihai catre ion : salut
+
+FINE [ 09-02-2015 11:46:44 ] : salut
+
+FINE [ 09-02-2015 11:46:44 ] : (OK)
+
+FINE [ 09-02-2015 11:46:44 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:45 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:46 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:47 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:47 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:48 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:48 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:49 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:49 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:50 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:50 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:51 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:52 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:52 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:53 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:54 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:54 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:54 ] : ion catre mihai : noroc
+
+FINE [ 09-02-2015 11:46:54 ] : noroc
+
+FINE [ 09-02-2015 11:46:54 ] : (OK)
+
+FINE [ 09-02-2015 11:46:55 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:55 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:56 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:56 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:57 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:57 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:58 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:58 ] : mihai : /list
+
+FINE [ 09-02-2015 11:46:59 ] : ion : /list
+
+FINE [ 09-02-2015 11:46:59 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:00 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:00 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:01 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:01 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:02 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:02 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:02 ] : ion : /help
+
+FINE [ 09-02-2015 11:47:03 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:03 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:04 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:04 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:05 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:05 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:05 ] : mihai : /help
+
+FINE [ 09-02-2015 11:47:06 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:06 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:07 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:07 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:08 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:08 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:09 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:09 ] : mihai : /list
+
+FINE [ 09-02-2015 11:47:09 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 11:47:09 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 11:47:10 ] : mihai a iesit
+
+FINE [ 09-02-2015 11:47:10 ] : mihai a iesit
+
+FINE [ 09-02-2015 11:47:10 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:11 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:12 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:13 ] : ion : /list
+
+FINE [ 09-02-2015 11:47:13 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 11:47:13 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 11:47:13 ] : ion a iesit
+
+FINE [ 09-02-2015 11:47:32 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 11:50:15 ] : S-a inregistrat un nou client : mihaicux
+
+FINE [ 09-02-2015 11:50:24 ] : Client nou (1) : mihaicux
+
+FINE [ 09-02-2015 11:50:24 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:25 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:26 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:27 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:28 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:29 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:30 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:31 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:32 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:33 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:34 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:35 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:36 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:37 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:38 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:39 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:40 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:41 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:42 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:43 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:44 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:45 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:46 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:47 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:48 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:49 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:50 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:51 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:52 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:53 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:54 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:54 ] : Client nou (2) : mihai
+
+FINE [ 09-02-2015 11:50:54 ] : [SERVER] mihai a intrat
+
+FINE [ 09-02-2015 11:50:55 ] : mihai : /list
+
+FINE [ 09-02-2015 11:50:55 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:56 ] : mihai : /list
+
+FINE [ 09-02-2015 11:50:56 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:57 ] : mihai : /list
+
+FINE [ 09-02-2015 11:50:57 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:58 ] : mihai : /list
+
+FINE [ 09-02-2015 11:50:58 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:50:59 ] : mihai : /list
+
+FINE [ 09-02-2015 11:50:59 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:00 ] : Client nou (3) : ion
+
+FINE [ 09-02-2015 11:51:00 ] : [SERVER] ion a intrat
+
+FINE [ 09-02-2015 11:51:00 ] : [SERVER] ion a intrat
+
+FINE [ 09-02-2015 11:51:00 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:00 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:00 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:01 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:01 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:01 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:02 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:02 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:02 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:03 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:03 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:03 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:04 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:04 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:04 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:05 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:05 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:05 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:06 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:06 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:06 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:07 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:07 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:07 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:08 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:08 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:08 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:09 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:09 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:09 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:10 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:10 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:10 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:11 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:11 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:11 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:12 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:12 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:12 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:13 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:13 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:13 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:14 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:14 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:14 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:15 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:15 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:15 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:16 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:16 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:16 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:17 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:17 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:17 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:18 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:18 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:18 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:19 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:19 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:19 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:20 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:20 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:20 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:21 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:21 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:21 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:22 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:22 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:22 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:23 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:23 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:23 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:24 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:24 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:24 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:25 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:25 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:25 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:26 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:26 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:26 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:27 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:27 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:27 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:28 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:28 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:28 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:29 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:29 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:29 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:30 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:30 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:30 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:31 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:31 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:31 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:32 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:32 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:32 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:33 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:33 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:34 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:34 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:34 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:35 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:35 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:35 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:36 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:36 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:36 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:37 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:37 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:37 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:38 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:38 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:38 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:39 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:39 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:39 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:40 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:40 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:40 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:41 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:41 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:41 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:42 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:42 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:42 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:43 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:43 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:43 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:44 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:44 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:44 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:45 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:45 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:45 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:46 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:46 ] : mihai : /list
+
+FINE [ 09-02-2015 11:51:46 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:47 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 11:51:47 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 11:51:47 ] : mihai a iesit
+
+FINE [ 09-02-2015 11:51:47 ] : Serverul se inchide
+
+FINE [ 09-02-2015 11:51:47 ] : mihai a iesit
+
+FINE [ 09-02-2015 11:51:47 ] : mihai a iesit
+
+FINE [ 09-02-2015 11:51:47 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:48 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:48 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:49 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:49 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:50 ] : mihaicux : /list
+
+FINE [ 09-02-2015 11:51:50 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:51 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 11:51:51 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 11:51:51 ] : Serverul se inchide
+
+FINE [ 09-02-2015 11:51:51 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 11:51:51 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 11:51:51 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:52 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:53 ] : ion : /help
+
+FINE [ 09-02-2015 11:51:53 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:54 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:55 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:56 ] : ion : /list
+
+FINE [ 09-02-2015 11:51:57 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 11:51:57 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 11:51:57 ] : ion a iesit
+
+FINE [ 09-02-2015 11:53:31 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 11:53:31 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 11:53:31 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 13:03:19 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 13:03:47 ] : S-a inregistrat un nou client : boss
+
+FINE [ 09-02-2015 13:03:59 ] : Client nou (1) : boss
+
+FINE [ 09-02-2015 13:03:59 ] : boss : /list
+
+FINE [ 09-02-2015 13:04:00 ] : boss : /list
+
+FINE [ 09-02-2015 13:04:01 ] : boss : /list
+
+FINE [ 09-02-2015 13:04:02 ] : boss : /list
+
+FINE [ 09-02-2015 13:04:03 ] : boss : /list
+
+FINE [ 09-02-2015 13:04:04 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 13:04:04 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 13:04:04 ] : boss a iesit
+
+FINE [ 09-02-2015 13:04:16 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 13:04:16 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 13:04:16 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 13:12:02 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 13:12:10 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 13:12:10 ] : Can't read input file!
+
+EXCEPTION [ 09-02-2015 13:12:10 ] : javax.imageio.ImageIO.read(ImageIO.java:1301)
+cuxchat.Protocol.login(Protocol.java:59)
+cuxchat.Protocol.handleLogin(Protocol.java:97)
+cuxchat.Protocol.run(Protocol.java:159)
+
+
+FINE [ 09-02-2015 13:12:26 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 13:12:26 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 13:12:26 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+EXCEPTION [ 09-02-2015 13:12:27 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ui.client.ClientLoginUI.loginBtnActionPerformed(ClientLoginUI.java:282)
+cuxchat.ui.client.ClientLoginUI.access$100(ClientLoginUI.java:26)
+cuxchat.ui.client.ClientLoginUI$5.actionPerformed(ClientLoginUI.java:160)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener$Actions.actionPerformed(BasicButtonListener.java:303)
+javax.swing.SwingUtilities.notifyAction(SwingUtilities.java:1663)
+javax.swing.JComponent.processKeyBinding(JComponent.java:2880)
+javax.swing.JComponent.processKeyBindings(JComponent.java:2927)
+javax.swing.JComponent.processKeyEvent(JComponent.java:2843)
+java.awt.Component.processEvent(Component.java:6302)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:806)
+java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1074)
+java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:945)
+java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:771)
+java.awt.Component.dispatchEventImpl(Component.java:4752)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 13:20:58 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 13:21:08 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 13:21:08 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:21:09 ] : org.codehaus.jackson.node.TextNode._reportInvalidBase64(TextNode.java:291)
+org.codehaus.jackson.node.TextNode._reportInvalidBase64(TextNode.java:267)
+org.codehaus.jackson.node.TextNode.getBinaryValue(TextNode.java:83)
+org.codehaus.jackson.node.TextNode.getBinaryValue(TextNode.java:160)
+cuxchat.ChatClient$reader.run(ChatClient.java:136)
+
+
+EXCEPTION [ 09-02-2015 13:21:09 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 13:21:09 ] : ion a iesit
+
+FINE [ 09-02-2015 13:21:42 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 13:21:42 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:43 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:44 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:45 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:46 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:47 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:48 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:49 ] : ion : /list
+
+FINE [ 09-02-2015 13:21:50 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:21:51 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 13:21:51 ] : ion a iesit
+
+FINE [ 09-02-2015 13:29:11 ] : Client nou (0) : ion
+
+FINE [ 09-02-2015 13:29:11 ] : ion : /list
+
+FINE [ 09-02-2015 13:29:12 ] : ion : /list
+
+FINE [ 09-02-2015 13:29:13 ] : ion : /list
+
+FINE [ 09-02-2015 13:29:14 ] : ion : /list
+
+FINE [ 09-02-2015 13:29:15 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:29:16 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:244)
+
+
+FINE [ 09-02-2015 13:29:16 ] : ion a iesit
+
+FINE [ 09-02-2015 13:29:20 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 13:29:20 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 13:29:20 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 13:31:09 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 13:31:19 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 13:31:20 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:21 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:22 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:23 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:24 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:25 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:26 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:27 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:28 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 13:31:28 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 13:31:28 ] : ion a iesit
+
+FINE [ 09-02-2015 13:31:53 ] : Client nou (0) : ion
+
+FINE [ 09-02-2015 13:31:53 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:54 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:55 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:56 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:57 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:58 ] : ion : /list
+
+FINE [ 09-02-2015 13:31:59 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:00 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:01 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:02 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:03 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:04 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:05 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:06 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:07 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:08 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:09 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:10 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:11 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:12 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:13 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:14 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:15 ] : ion : /list
+
+FINE [ 09-02-2015 13:32:16 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:32:17 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 13:32:17 ] : Serverul se inchide
+
+FINE [ 09-02-2015 13:32:17 ] : ion a iesit
+
+FINE [ 09-02-2015 13:34:04 ] : Client nou (-1) : ion
+
+FINE [ 09-02-2015 13:34:04 ] : ion : /list
+
+FINE [ 09-02-2015 13:34:05 ] : ion : /list
+
+FINE [ 09-02-2015 13:34:06 ] : ion : /list
+
+FINE [ 09-02-2015 13:34:07 ] : ion : /list
+
+FINE [ 09-02-2015 13:34:08 ] : ion : /list
+
+FINE [ 09-02-2015 13:34:09 ] : ion : /list
+
+FINE [ 09-02-2015 13:34:10 ] : ion : /list
+
+FINE [ 09-02-2015 13:34:11 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:34:12 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 13:34:12 ] : ion a iesit
+
+FINE [ 09-02-2015 13:37:22 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 13:37:22 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 13:37:22 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 13:37:31 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 13:37:39 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 13:37:39 ] : ion : /list
+
+FINE [ 09-02-2015 13:37:40 ] : ion : /list
+
+FINE [ 09-02-2015 13:37:41 ] : ion : /list
+
+FINE [ 09-02-2015 13:37:42 ] : ion : /list
+
+FINE [ 09-02-2015 13:37:43 ] : ion : /list
+
+FINE [ 09-02-2015 13:37:44 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:37:45 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:246)
+
+
+FINE [ 09-02-2015 13:37:45 ] : ion a iesit
+
+FINE [ 09-02-2015 13:37:56 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 13:37:56 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 13:37:56 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 13:39:04 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 13:39:11 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 13:39:11 ] : ion : /list
+
+FINE [ 09-02-2015 13:39:12 ] : ion : /list
+
+FINE [ 09-02-2015 13:39:13 ] : ion : /list
+
+FINE [ 09-02-2015 13:39:14 ] : ion : /list
+
+FINE [ 09-02-2015 13:39:15 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:39:16 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 13:39:16 ] : ion a iesit
+
+FINE [ 09-02-2015 13:39:58 ] : Client nou (0) : ion
+
+FINE [ 09-02-2015 13:39:58 ] : ion : /list
+
+FINE [ 09-02-2015 13:39:59 ] : ion : /list
+
+FINE [ 09-02-2015 13:40:00 ] : ion : /list
+
+FINE [ 09-02-2015 13:40:01 ] : ion : /list
+
+FINE [ 09-02-2015 13:40:02 ] : ion : /list
+
+FINE [ 09-02-2015 13:40:03 ] : ion : /list
+
+FINE [ 09-02-2015 13:40:04 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:40:05 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 13:40:05 ] : ion a iesit
+
+FINE [ 09-02-2015 13:40:24 ] : Client nou (-1) : ion
+
+FINE [ 09-02-2015 13:40:24 ] : ion : /list
+
+FINE [ 09-02-2015 13:40:25 ] : ion : /list
+
+FINE [ 09-02-2015 13:40:26 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 13:40:27 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 13:40:27 ] : ion a iesit
+
+FINE [ 09-02-2015 13:40:33 ] : Client nou (-2) : mihai
+
+EXCEPTION [ 09-02-2015 13:40:33 ] : java.io.DataOutputStream.writeUTF(DataOutputStream.java:364)
+java.io.DataOutputStream.writeUTF(DataOutputStream.java:323)
+cuxchat.handlers.ClientHandler.sendMessage(ClientHandler.java:53)
+cuxchat.handlers.ClientHandler.handlerList(ClientHandler.java:126)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:267)
+
+
+EXCEPTION [ 09-02-2015 13:40:33 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ChatClient$reader.run(ChatClient.java:88)
+
+
+FINE [ 09-02-2015 13:40:33 ] : mihai a iesit
+
+FINE [ 09-02-2015 13:40:50 ] : Client nou (-2) : mihaicux
+
+EXCEPTION [ 09-02-2015 13:40:50 ] : java.io.DataOutputStream.writeUTF(DataOutputStream.java:364)
+java.io.DataOutputStream.writeUTF(DataOutputStream.java:323)
+cuxchat.handlers.ClientHandler.sendMessage(ClientHandler.java:53)
+cuxchat.handlers.ClientHandler.handlerList(ClientHandler.java:126)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:267)
+
+
+FINE [ 09-02-2015 13:40:50 ] : mihaicux a iesit
+
+EXCEPTION [ 09-02-2015 13:40:50 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ChatClient$reader.run(ChatClient.java:88)
+
+
+FINE [ 09-02-2015 14:08:50 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 14:08:50 ] : Address already in use
+
+FINE [ 09-02-2015 14:08:54 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:11:06 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 14:11:09 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:11:09 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 14:11:09 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 14:11:16 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 14:11:23 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:12:35 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 14:12:45 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 14:12:45 ] : ion : /list
+
+FINE [ 09-02-2015 14:12:46 ] : ion : /list
+
+FINE [ 09-02-2015 14:12:47 ] : ion : /list
+
+FINE [ 09-02-2015 14:12:48 ] : ion : /list
+
+FINE [ 09-02-2015 14:12:49 ] : ion : /list
+
+FINE [ 09-02-2015 14:12:50 ] : ion : /list
+
+FINE [ 09-02-2015 14:12:51 ] : ion : /list
+
+FINE [ 09-02-2015 14:12:52 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 14:12:52 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 14:12:52 ] : ion a iesit
+
+FINE [ 09-02-2015 14:20:30 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:20:30 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 14:20:30 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 14:20:33 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:20:47 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:21:51 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 14:22:04 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:22:04 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 14:22:04 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 14:22:45 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 14:22:57 ] : Client nou (1) : mihaicux
+
+FINE [ 09-02-2015 14:22:58 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:22:59 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:00 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:01 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:02 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:03 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:04 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:05 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:06 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:07 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:07 ] : re
+
+FINE [ 09-02-2015 14:23:07 ] : mihaicux : re
+
+FINE [ 09-02-2015 14:23:08 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:09 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:10 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:11 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:12 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:13 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:14 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:15 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:16 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:17 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:18 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:19 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:20 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:21 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:22 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:23 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:24 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:24 ] : mihaicux catre mihaicux : noroc
+
+FINE [ 09-02-2015 14:23:24 ] : (OK)
+
+FINE [ 09-02-2015 14:23:24 ] : noroc
+
+FINE [ 09-02-2015 14:23:25 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:26 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:27 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:28 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:28 ] : mihaicux catre mihaicux : ce faci?
+
+FINE [ 09-02-2015 14:23:28 ] : (OK)
+
+FINE [ 09-02-2015 14:23:28 ] : ce faci?
+
+FINE [ 09-02-2015 14:23:29 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:30 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:31 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:32 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:33 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:34 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:35 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:36 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:37 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:38 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:39 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:40 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:41 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:42 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:43 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:44 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:45 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:46 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:47 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:48 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:49 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:50 ] : Client nou (2) : ion
+
+FINE [ 09-02-2015 14:23:50 ] : [SERVER] ion a intrat
+
+FINE [ 09-02-2015 14:23:50 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:50 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:51 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:51 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:52 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:52 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:53 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:53 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:54 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:54 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:55 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:55 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:56 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:56 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:57 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:57 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:58 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:58 ] : ion : /list
+
+FINE [ 09-02-2015 14:23:59 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:23:59 ] : ion : /list
+
+FINE [ 09-02-2015 14:24:00 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:00 ] : ion : /list
+
+FINE [ 09-02-2015 14:24:01 ] : Serverul se inchide
+
+FINE [ 09-02-2015 14:24:01 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 14:24:01 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 14:24:01 ] : ion a iesit
+
+FINE [ 09-02-2015 14:24:01 ] : ion a iesit
+
+FINE [ 09-02-2015 14:24:02 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:03 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:04 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:05 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:06 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:07 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:08 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:09 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:10 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:11 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:12 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:13 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:14 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:15 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:16 ] : mihaicux : /list
+
+FINE [ 09-02-2015 14:24:17 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 14:24:17 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 14:24:17 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 14:24:21 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 14:24:21 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 14:24:21 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:01:36 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:01:38 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:01:38 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:01:38 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:01:42 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:02:16 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:02:18 ] : Niciun client conectat
+
+FINE [ 09-02-2015 15:02:21 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:02:21 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:02:21 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:02:48 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:02:50 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:02:50 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:02:50 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:03:18 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:03:20 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:03:20 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:03:20 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:03:26 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:03:34 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 15:03:35 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:36 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:37 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:38 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:39 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:40 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:41 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:42 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:43 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:44 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:45 ] : mihai catre mihai : salut
+
+FINE [ 09-02-2015 15:03:45 ] : (OK)
+
+FINE [ 09-02-2015 15:03:45 ] : salut
+
+FINE [ 09-02-2015 15:03:45 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:46 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:47 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:48 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:49 ] : mihai catre mihai : noroc
+
+FINE [ 09-02-2015 15:03:49 ] : (OK)
+
+FINE [ 09-02-2015 15:03:49 ] : noroc
+
+FINE [ 09-02-2015 15:03:49 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:50 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:51 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:52 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:53 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:53 ] : mihai catre mihai : ce faci mos?
+
+FINE [ 09-02-2015 15:03:53 ] : (OK)
+
+FINE [ 09-02-2015 15:03:53 ] : ce faci mos?
+
+FINE [ 09-02-2015 15:03:54 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:55 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:56 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:57 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:58 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:59 ] : mihai : /list
+
+FINE [ 09-02-2015 15:03:59 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 15:03:59 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:03:59 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:04:05 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:04:05 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:04:05 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:05:23 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:05:28 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:05:28 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:05:28 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:05:32 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:05:36 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:05:36 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:05:36 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:17:54 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:17:57 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:17:57 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:17:57 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:18:00 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:18:03 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:18:03 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:18:03 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:18:20 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:18:21 ] : Eliberez servereul
+
+FINE [ 09-02-2015 15:18:22 ] : UTILIZARE SERVER : 
+
+/help -> afisarea comenzilor disponibile
+/list -> afisarea tuturor utilizatorilor conectati
+/all [mesaj] -> trimite mesaj tuturor utilizatorilor conectati
+/msg [utilizator] [mesaj] -> trimite mesaj utilizatorului dorit
+/whois [utilizator] -> afisarea IP-ului clientului
+/kick [utilizator] -> elimina un utilizator
+/quit -> inchiderea server-ului
+
+
+FINE [ 09-02-2015 15:18:23 ] : Niciun client conectat
+
+FINE [ 09-02-2015 15:18:30 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:18:30 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:18:30 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:21:02 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:21:03 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:21:03 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:21:03 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:21:04 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:21:07 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:21:07 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:21:07 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:22:50 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:26:00 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:26:02 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:26:02 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:26:02 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:26:11 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:26:13 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:26:13 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:26:13 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:26:14 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:26:16 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:26:16 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:26:16 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:26:18 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:26:24 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:26:51 ] : Client nou (1) : mihaicux
+
+FINE [ 09-02-2015 15:26:51 ] : mihaicux : /list
+
+FINE [ 09-02-2015 15:26:52 ] : mihaicux : /list
+
+FINE [ 09-02-2015 15:26:53 ] : mihaicux : /list
+
+FINE [ 09-02-2015 15:26:54 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:26:54 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:26:54 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+EXCEPTION [ 09-02-2015 15:26:54 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:26:54 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 15:26:54 ] : Serverul se inchide
+
+FINE [ 09-02-2015 15:26:58 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:28:21 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:28:29 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 15:28:30 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:31 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:32 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:33 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:34 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:35 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:36 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:37 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:38 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:39 ] : mihai : /list
+
+FINE [ 09-02-2015 15:28:39 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:28:39 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:28:39 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+EXCEPTION [ 09-02-2015 15:28:39 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:28:39 ] : Serverul se inchide
+
+FINE [ 09-02-2015 15:28:39 ] : mihai a iesit
+
+EXCEPTION [ 09-02-2015 15:28:41 ] : java.net.SocketOutputStream.socketWrite0(Native Method)
+java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+java.net.SocketOutputStream.write(SocketOutputStream.java:153)
+java.io.DataOutputStream.write(DataOutputStream.java:107)
+java.io.DataOutputStream.writeUTF(DataOutputStream.java:401)
+java.io.DataOutputStream.writeUTF(DataOutputStream.java:323)
+cuxchat.commands.ClientCommands.handlerList(ClientCommands.java:49)
+cuxchat.ui.client.ClientUI$1.run(ClientUI.java:58)
+java.lang.Thread.run(Thread.java:745)
+
+
+EXCEPTION [ 09-02-2015 15:28:41 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.ChatClient$reader.run(ChatClient.java:88)
+
+
+FINE [ 09-02-2015 15:28:44 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:29:26 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:29:30 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:29:30 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:29:30 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:29:32 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:29:33 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:29:33 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:29:33 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:29:34 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:29:36 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:29:36 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:29:36 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:29:39 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:30:44 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:30:45 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:30:45 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:30:45 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:30:46 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:30:47 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:30:47 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:30:47 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:30:48 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:30:48 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:30:48 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:30:48 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:30:49 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:30:50 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:30:50 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:30:50 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:43)
+
+
+FINE [ 09-02-2015 15:32:57 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:37:09 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:37:25 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 15:37:25 ] : mihai : /list
+
+EXCEPTION [ 09-02-2015 15:37:25 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:37:25 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:37:37 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 15:37:37 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 15:37:37 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:37:37 ] : ion a iesit
+
+FINE [ 09-02-2015 15:43:28 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:43:28 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:43:28 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:43:30 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:43:37 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:43:48 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 15:43:49 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:43:50 ] : ion a iesit
+
+FINE [ 09-02-2015 15:43:50 ] : ion : /list
+
+FINE [ 09-02-2015 15:44:04 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 15:44:12 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:44:12 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 15:44:12 ] : mihaicux : /list
+
+FINE [ 09-02-2015 15:44:23 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 15:44:30 ] : java.net.SocketInputStream.read(SocketInputStream.java:189)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+EXCEPTION [ 09-02-2015 15:44:30 ] : java.net.SocketInputStream.read(SocketInputStream.java:189)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:44:30 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 15:44:30 ] : mihaicux a iesit
+
+EXCEPTION [ 09-02-2015 15:44:30 ] : java.net.SocketInputStream.read(SocketInputStream.java:189)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:44:30 ] : ion a iesit
+
+FINE [ 09-02-2015 15:44:57 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:44:57 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:44:57 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:45:08 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:45:21 ] : (ME) : /list
+
+FINE [ 09-02-2015 15:45:21 ] : mihai : /list
+
+FINE [ 09-02-2015 15:45:54 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:45:54 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 15:45:54 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:45:54 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:45:54 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:45:54 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:45:58 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:46:04 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:46:13 ] : mihai : /list
+
+FINE [ 09-02-2015 15:46:20 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:46:20 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:46:20 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+EXCEPTION [ 09-02-2015 15:46:20 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:46:20 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:46:26 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:48:07 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:48:20 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 15:48:20 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:48:20 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 15:48:20 ] : null
+
+EXCEPTION [ 09-02-2015 15:48:20 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:168)
+
+
+FINE [ 09-02-2015 15:49:05 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:49:05 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:49:05 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:49:08 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:49:13 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:49:21 ] : mihai : /list
+
+FINE [ 09-02-2015 15:49:28 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:49:28 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:49:28 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+EXCEPTION [ 09-02-2015 15:49:28 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:49:28 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:49:33 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:51:07 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:51:15 ] : mihai : /list
+
+FINE [ 09-02-2015 15:51:16 ] : mihai : /list
+
+FINE [ 09-02-2015 15:51:17 ] : mihai : /list
+
+FINE [ 09-02-2015 15:51:18 ] : mihai : /list
+
+EXCEPTION [ 09-02-2015 15:51:18 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:51:18 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:51:26 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:51:26 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:51:26 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:54:28 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:54:46 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 15:54:47 ] : mihai : /list
+
+FINE [ 09-02-2015 15:55:21 ] : Client nou (2) : mihaicux
+
+FINE [ 09-02-2015 15:55:21 ] : mihai : /list
+
+FINE [ 09-02-2015 15:55:21 ] : mihaicux : /list
+
+FINE [ 09-02-2015 15:55:29 ] : (ME) : /list
+
+FINE [ 09-02-2015 15:55:29 ] : mihai : /list
+
+FINE [ 09-02-2015 15:55:40 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 15:55:40 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:55:40 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 15:55:40 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 15:55:40 ] : null
+
+EXCEPTION [ 09-02-2015 15:55:40 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:170)
+
+
+FINE [ 09-02-2015 15:55:49 ] : (ME) : /list
+
+FINE [ 09-02-2015 15:55:49 ] : mihai : /list
+
+EXCEPTION [ 09-02-2015 15:55:53 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:55:53 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:58:11 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:58:11 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:58:11 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:58:15 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:58:20 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 15:58:45 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 15:58:46 ] : mihai : /list
+
+FINE [ 09-02-2015 15:58:55 ] : Client nou (2) : mihaicux
+
+FINE [ 09-02-2015 15:58:55 ] : [SERVER] mihaicux a intrat
+
+FINE [ 09-02-2015 15:58:55 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 15:59:10 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:59:10 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:59:10 ] : mihai a iesit
+
+FINE [ 09-02-2015 15:59:14 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 15:59:14 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 15:59:14 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 15:59:18 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 15:59:18 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 15:59:18 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 15:59:21 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:00:44 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:01:05 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 16:01:05 ] : mihai : /list
+
+FINE [ 09-02-2015 16:01:12 ] : Client nou (2) : mihaicux
+
+FINE [ 09-02-2015 16:01:13 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:01:19 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:01:19 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 16:01:19 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:01:19 ] : mihai a iesit
+
+EXCEPTION [ 09-02-2015 16:01:32 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 16:01:32 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:01:39 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:01:39 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:01:39 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:02:53 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:03:02 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 16:03:02 ] : mihai : /list
+
+EXCEPTION [ 09-02-2015 16:03:02 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 16:03:02 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:03:07 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:03:07 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:03:07 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:03:10 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:04:22 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:04:30 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 16:04:30 ] : mihai : /list
+
+FINE [ 09-02-2015 16:04:40 ] : Client nou (2) : mihaicux
+
+FINE [ 09-02-2015 16:04:40 ] : mihai : /list
+
+FINE [ 09-02-2015 16:04:40 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:04:48 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:04:48 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 16:04:48 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:04:48 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:04:51 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:04:51 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 16:04:51 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:06:49 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:06:49 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:06:49 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:06:52 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:06:57 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:07:05 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 16:07:06 ] : mihai : /list
+
+FINE [ 09-02-2015 16:07:14 ] : Client nou (2) : ion
+
+FINE [ 09-02-2015 16:07:15 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 16:07:20 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 16:07:20 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:07:20 ] : mihai a iesit
+
+EXCEPTION [ 09-02-2015 16:07:22 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:245)
+
+
+FINE [ 09-02-2015 16:07:22 ] : ion a iesit
+
+FINE [ 09-02-2015 16:10:44 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:10:44 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:10:44 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:10:47 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:10:55 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:11:06 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 16:11:06 ] : mihai : /list
+
+EXCEPTION [ 09-02-2015 16:11:06 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:246)
+
+
+FINE [ 09-02-2015 16:11:06 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:11:51 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:11:51 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:11:51 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:11:54 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:11:57 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:12:04 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 16:12:04 ] : ion : /list
+
+FINE [ 09-02-2015 16:12:11 ] : Client nou (2) : mihai
+
+FINE [ 09-02-2015 16:12:11 ] : ion : /list
+
+FINE [ 09-02-2015 16:12:11 ] : mihai : /list
+
+FINE [ 09-02-2015 16:12:24 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:12:24 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:246)
+
+
+FINE [ 09-02-2015 16:12:24 ] : ion a iesit
+
+FINE [ 09-02-2015 16:12:24 ] : ion a iesit
+
+FINE [ 09-02-2015 16:12:28 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:12:28 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:246)
+
+
+FINE [ 09-02-2015 16:12:28 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:15:24 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:15:24 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:15:24 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:15:27 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:15:31 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:15:39 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 16:15:39 ] : ion : /list
+
+FINE [ 09-02-2015 16:15:46 ] : Client nou (2) : mihai
+
+FINE [ 09-02-2015 16:15:46 ] : mihai : /list
+
+EXCEPTION [ 09-02-2015 16:15:53 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:250)
+
+
+FINE [ 09-02-2015 16:15:53 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:15:53 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:15:55 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:15:55 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:250)
+
+
+FINE [ 09-02-2015 16:15:55 ] : ion a iesit
+
+FINE [ 09-02-2015 16:16:15 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:16:15 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:16:15 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:16:18 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:16:23 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:16:30 ] : Client nou (1) : ion
+
+EXCEPTION [ 09-02-2015 16:16:31 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:250)
+
+
+FINE [ 09-02-2015 16:16:31 ] : ion a iesit
+
+FINE [ 09-02-2015 16:16:34 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:16:34 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:16:34 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:16:36 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:18:27 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:18:34 ] : Client nou (1) : ion
+
+EXCEPTION [ 09-02-2015 16:18:34 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:18:34 ] : ion a iesit
+
+FINE [ 09-02-2015 16:18:57 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:18:57 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:18:57 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:18:59 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:19:07 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:19:14 ] : Client nou (1) : ion
+
+EXCEPTION [ 09-02-2015 16:19:14 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:19:14 ] : ion a iesit
+
+FINE [ 09-02-2015 16:19:17 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:19:17 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:19:17 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:19:19 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:20:01 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:20:07 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 16:20:08 ] : ion : /help
+
+FINE [ 09-02-2015 16:20:08 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 16:20:12 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:20:12 ] : ion a iesit
+
+FINE [ 09-02-2015 16:20:22 ] : Client nou (0) : ion
+
+FINE [ 09-02-2015 16:20:22 ] : ion : /help
+
+FINE [ 09-02-2015 16:20:23 ] : ion : /list
+
+FINE [ 09-02-2015 16:20:31 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 16:20:31 ] : mihai : /help
+
+FINE [ 09-02-2015 16:20:31 ] : ion : /help
+
+FINE [ 09-02-2015 16:20:31 ] : mihai : /list
+
+FINE [ 09-02-2015 16:20:42 ] : Client nou (2) : mihaicux
+
+FINE [ 09-02-2015 16:20:42 ] : mihai : /help
+
+FINE [ 09-02-2015 16:20:42 ] : ion : /help
+
+FINE [ 09-02-2015 16:20:42 ] : mihaicux : /help
+
+FINE [ 09-02-2015 16:20:42 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 16:20:53 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:20:53 ] : ion a iesit
+
+FINE [ 09-02-2015 16:20:53 ] : ion a iesit
+
+FINE [ 09-02-2015 16:20:53 ] : ion a iesit
+
+EXCEPTION [ 09-02-2015 16:20:55 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:20:55 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:20:55 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:20:55 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:20:57 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:20:57 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:20:57 ] : Serverul se inchide
+
+FINE [ 09-02-2015 16:21:56 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:21:56 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:21:56 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:22:01 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:22:10 ] : Client nou (1) : mihai
+
+FINE [ 09-02-2015 16:22:10 ] : mihai : /list
+
+FINE [ 09-02-2015 16:22:10 ] : mihai : /list
+
+FINE [ 09-02-2015 16:22:19 ] : Client nou (2) : ion
+
+FINE [ 09-02-2015 16:22:19 ] : ion : /list
+
+FINE [ 09-02-2015 16:22:19 ] : mihai : /list
+
+FINE [ 09-02-2015 16:22:19 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 16:22:26 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:22:26 ] : ion a iesit
+
+FINE [ 09-02-2015 16:22:26 ] : ion a iesit
+
+EXCEPTION [ 09-02-2015 16:22:28 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:22:28 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:22:28 ] : Serverul se inchide
+
+FINE [ 09-02-2015 16:22:34 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:22:34 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:22:34 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:23:08 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:23:34 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 16:23:34 ] : ion : /list
+
+FINE [ 09-02-2015 16:23:34 ] : ion : /list
+
+FINE [ 09-02-2015 16:23:40 ] : Client nou (2) : mihai
+
+FINE [ 09-02-2015 16:23:40 ] : mihai : /list
+
+FINE [ 09-02-2015 16:23:40 ] : mihai : /list
+
+FINE [ 09-02-2015 16:23:40 ] : ion : /list
+
+FINE [ 09-02-2015 16:24:17 ] : Client nou (3) : mihaicux
+
+FINE [ 09-02-2015 16:24:17 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:24:18 ] : mihai : /list
+
+FINE [ 09-02-2015 16:24:18 ] : ion : /list
+
+FINE [ 09-02-2015 16:24:18 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:24:22 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:24:22 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:24:22 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:24:22 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:24:22 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:24:22 ] : null
+
+EXCEPTION [ 09-02-2015 16:24:22 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:164)
+
+
+EXCEPTION [ 09-02-2015 16:24:24 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:24:24 ] : ion a iesit
+
+FINE [ 09-02-2015 16:24:24 ] : ion a iesit
+
+EXCEPTION [ 09-02-2015 16:24:26 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:241)
+
+
+FINE [ 09-02-2015 16:24:26 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:24:55 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:24:55 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:24:55 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:24:59 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:27:01 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:27:27 ] : Client nou (1) : ion
+
+FINE [ 09-02-2015 16:27:28 ] : ion : /list
+
+FINE [ 09-02-2015 16:27:28 ] : ion : /list
+
+FINE [ 09-02-2015 16:27:35 ] : Client nou (2) : mihaicux
+
+FINE [ 09-02-2015 16:27:35 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:27:35 ] : ion : /list
+
+FINE [ 09-02-2015 16:27:35 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:27:48 ] : Serverul se inchide
+
+FINE [ 09-02-2015 16:27:48 ] : Client nou (2) : mihaicux
+
+EXCEPTION [ 09-02-2015 16:27:48 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:27:48 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:27:48 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:27:48 ] : ion : /list
+
+FINE [ 09-02-2015 16:27:48 ] : null
+
+EXCEPTION [ 09-02-2015 16:27:48 ] : java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.Protocol.run(Protocol.java:141)
+
+
+FINE [ 09-02-2015 16:27:48 ] : ion : /list
+
+FINE [ 09-02-2015 16:27:48 ] : ion : /list
+
+FINE [ 09-02-2015 16:27:48 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:27:48 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:27:48 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:28:05 ] : Client nou (2) : mihai
+
+FINE [ 09-02-2015 16:28:06 ] : mihai : /list
+
+FINE [ 09-02-2015 16:28:06 ] : mihai : /list
+
+FINE [ 09-02-2015 16:28:06 ] : ion : /list
+
+FINE [ 09-02-2015 16:28:06 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:28:20 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:28:20 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:28:20 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:28:20 ] : mihai : /list
+
+FINE [ 09-02-2015 16:28:20 ] : mihai : /list
+
+FINE [ 09-02-2015 16:28:20 ] : ion : /list
+
+FINE [ 09-02-2015 16:28:20 ] : ion : /list
+
+FINE [ 09-02-2015 16:28:24 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:28:24 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:28:24 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:28:25 ] : ion : /list
+
+FINE [ 09-02-2015 16:28:25 ] : ion : /list
+
+FINE [ 09-02-2015 16:28:26 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:28:26 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:28:26 ] : ion a iesit
+
+FINE [ 09-02-2015 16:30:50 ] : Client nou (-3) : ion
+
+FINE [ 09-02-2015 16:30:50 ] : ion : /list
+
+EXCEPTION [ 09-02-2015 16:30:54 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:30:54 ] : ion a iesit
+
+FINE [ 09-02-2015 16:31:15 ] : Client nou (-4) : ion
+
+FINE [ 09-02-2015 16:31:15 ] : ion : /list
+
+FINE [ 09-02-2015 16:31:17 ] : ion catre ion : 
+
+FINE [ 09-02-2015 16:31:17 ] : 
+
+FINE [ 09-02-2015 16:31:17 ] : (OK)
+
+FINE [ 09-02-2015 16:31:21 ] : ion : /help
+
+EXCEPTION [ 09-02-2015 16:31:25 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:31:25 ] : Serverul se inchide
+
+FINE [ 09-02-2015 16:31:25 ] : ion a iesit
+
+FINE [ 09-02-2015 16:32:16 ] : Client nou (-5) : ion
+
+FINE [ 09-02-2015 16:32:16 ] : ion : /list
+
+FINE [ 09-02-2015 16:32:25 ] : Client nou (-4) : mihai
+
+FINE [ 09-02-2015 16:32:26 ] : mihai : /list
+
+FINE [ 09-02-2015 16:32:26 ] : ion : /list
+
+FINE [ 09-02-2015 16:32:32 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:32:32 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:32:32 ] : mihai a iesit
+
+FINE [ 09-02-2015 16:32:32 ] : ion : /list
+
+FINE [ 09-02-2015 16:32:32 ] : ion : /list
+
+FINE [ 09-02-2015 16:32:36 ] : Eliberez servereul
+
+EXCEPTION [ 09-02-2015 16:32:36 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:32:36 ] : ion a iesit
+
+FINE [ 09-02-2015 16:32:36 ] : Serverul se inchide
+
+FINE [ 09-02-2015 16:32:38 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:32:38 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:32:38 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:32:42 ] : SERVERUL SE INCHIDE...
+
+EXCEPTION [ 09-02-2015 16:34:20 ] : java.net.PlainSocketImpl.socketConnect(Native Method)
+java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+java.net.Socket.connect(Socket.java:589)
+java.net.Socket.connect(Socket.java:538)
+java.net.Socket.<init>(Socket.java:434)
+java.net.Socket.<init>(Socket.java:211)
+cuxchat.ui.client.ClientRegisterUI.registerBtnActionPerformed(ClientRegisterUI.java:700)
+cuxchat.ui.client.ClientRegisterUI.access$700(ClientRegisterUI.java:53)
+cuxchat.ui.client.ClientRegisterUI$15.actionPerformed(ClientRegisterUI.java:453)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+java.awt.Component.processMouseEvent(Component.java:6525)
+javax.swing.JComponent.processMouseEvent(JComponent.java:3322)
+java.awt.Component.processEvent(Component.java:6290)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4898)
+java.awt.LightweightDispatcher.processMouseEvent(Container.java:4533)
+java.awt.LightweightDispatcher.dispatchEvent(Container.java:4462)
+java.awt.Container.dispatchEventImpl(Container.java:2278)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 16:34:28 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:34:35 ] : S-a inregistrat un nou client : mihaicux
+
+FINE [ 09-02-2015 16:34:44 ] : Client nou (1) : mihaicux
+
+FINE [ 09-02-2015 16:34:45 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 16:34:54 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:34:54 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:34:54 ] : Serverul se inchide
+
+FINE [ 09-02-2015 16:35:24 ] : Client nou (0) : mihaicux
+
+FINE [ 09-02-2015 16:35:24 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:35:45 ] : mihaicux : /help
+
+EXCEPTION [ 09-02-2015 16:35:48 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:35:48 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:35:53 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 16:35:53 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 16:35:53 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 16:35:56 ] : SERVERUL SE INCHIDE...
+
+EXCEPTION [ 09-02-2015 16:48:42 ] : java.net.PlainSocketImpl.socketConnect(Native Method)
+java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+java.net.Socket.connect(Socket.java:589)
+java.net.Socket.connect(Socket.java:538)
+java.net.Socket.<init>(Socket.java:434)
+java.net.Socket.<init>(Socket.java:211)
+cuxchat.ui.client.ClientLoginUI.loginBtnActionPerformed(ClientLoginUI.java:276)
+cuxchat.ui.client.ClientLoginUI.access$100(ClientLoginUI.java:26)
+cuxchat.ui.client.ClientLoginUI$5.actionPerformed(ClientLoginUI.java:160)
+javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2346)
+javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+javax.swing.plaf.basic.BasicButtonListener$Actions.actionPerformed(BasicButtonListener.java:303)
+javax.swing.SwingUtilities.notifyAction(SwingUtilities.java:1663)
+javax.swing.JComponent.processKeyBinding(JComponent.java:2880)
+javax.swing.JComponent.processKeyBindings(JComponent.java:2927)
+javax.swing.JComponent.processKeyEvent(JComponent.java:2843)
+java.awt.Component.processEvent(Component.java:6302)
+java.awt.Container.processEvent(Container.java:2234)
+java.awt.Component.dispatchEventImpl(Component.java:4881)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:806)
+java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1074)
+java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:945)
+java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:771)
+java.awt.Component.dispatchEventImpl(Component.java:4752)
+java.awt.Container.dispatchEventImpl(Container.java:2292)
+java.awt.Window.dispatchEventImpl(Window.java:2739)
+java.awt.Component.dispatchEvent(Component.java:4703)
+java.awt.EventQueue.dispatchEventImpl(EventQueue.java:751)
+java.awt.EventQueue.access$500(EventQueue.java:97)
+java.awt.EventQueue$3.run(EventQueue.java:702)
+java.awt.EventQueue$3.run(EventQueue.java:696)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:86)
+java.awt.EventQueue$4.run(EventQueue.java:724)
+java.awt.EventQueue$4.run(EventQueue.java:722)
+java.security.AccessController.doPrivileged(Native Method)
+java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:75)
+java.awt.EventQueue.dispatchEvent(EventQueue.java:721)
+java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+
+FINE [ 09-02-2015 16:48:48 ] : Connected to MySQL Database...
+
+FINE [ 09-02-2015 16:48:53 ] : Client nou (1) : mihaicux
+
+FINE [ 09-02-2015 16:48:53 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 16:49:06 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:49:06 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:49:35 ] : Client nou (0) : mihaicux
+
+FINE [ 09-02-2015 16:49:35 ] : mihaicux : /list
+
+FINE [ 09-02-2015 16:49:38 ] : Serverul se inchide
+
+EXCEPTION [ 09-02-2015 16:49:38 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:49:38 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:52:42 ] : Client nou (-1) : mihaicux
+
+FINE [ 09-02-2015 16:52:43 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 16:52:46 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:52:46 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:54:01 ] : Client nou (-2) : mihaicux
+
+FINE [ 09-02-2015 16:54:02 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 16:54:05 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:54:05 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:56:40 ] : Client nou (-3) : mihaicux
+
+FINE [ 09-02-2015 16:56:40 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 16:56:43 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:56:43 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:59:48 ] : Client nou (-4) : mihaicux
+
+FINE [ 09-02-2015 16:59:48 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 16:59:51 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 16:59:51 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 16:59:51 ] : Serverul se inchide
+
+FINE [ 09-02-2015 17:01:14 ] : Client nou (-5) : mihaicux
+
+FINE [ 09-02-2015 17:01:14 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 17:01:17 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 17:01:17 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 17:03:26 ] : Client nou (-6) : mihaicux
+
+FINE [ 09-02-2015 17:03:27 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 17:03:34 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 17:03:34 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 17:03:53 ] : Client nou (-7) : mihaicux
+
+FINE [ 09-02-2015 17:03:53 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 17:03:56 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 17:03:56 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 17:04:30 ] : Client nou (-8) : mihaicux
+
+FINE [ 09-02-2015 17:04:30 ] : mihaicux : /list
+
+EXCEPTION [ 09-02-2015 17:04:32 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:248)
+
+
+FINE [ 09-02-2015 17:04:32 ] : mihaicux a iesit
+
+FINE [ 09-02-2015 17:04:34 ] : SERVERUL SE INCHIDE...
+
+FINE [ 09-02-2015 17:04:34 ] : Socket closed
+
+EXCEPTION [ 09-02-2015 17:04:35 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 09-02-2015 17:04:37 ] : SERVERUL SE INCHIDE...
+

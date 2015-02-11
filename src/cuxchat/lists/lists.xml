@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <countries>
+        <country id="1">
+            <name>Romania</name>
+            <cities>
+                <city id="1">Bucharast</city>
+                <city id="2">Cluj</city>
+                <city id="3">Constanta</city>
+                <city id="4">Timisoara</city>
+                <city id="5">Arad</city>
+                <city id="6">Oradea</city>
+                <city id="7">Satu Mare</city>
+            </cities>
+        </country>
+        <country id="2">
+            <name>Germany</name>
+            <cities>
+                <city id="8">Berlin</city>
+                <city id="9">Frankfurt</city>
+                <city id="10">Bamberg</city>
+                <city id="11">Leipzig</city>
+            </cities>
+        </country>
+        <country id="3">
+            <name>Russia</name>
+            <cities>
+                <city id="12">Moscow</city>
+                <city id="13">Saint-Petersburg</city>
+                <city id="14">Volgograd</city>
+                <city id="15">Kazan</city>
+            </cities>
+        </country>
+        <country id="4">
+            <name>United Kingdom</name>
+            <cities>
+                <city id="16">London</city>
+                <city id="17">Manchester</city>
+            </cities>
+        </country>
+        <country id="5">
+            <name>France</name>
+            <cities>
+                <city id="18">Paris</city>
+            </cities>
+        </country>
+        <country id="6">
+            <name>Spain</name>
+            <cities>
+                <city id="19">Madrid</city>
+                <city id="20">Barcelona</city>
+            </cities>
+        </country>
+    </countries>
+</root>
