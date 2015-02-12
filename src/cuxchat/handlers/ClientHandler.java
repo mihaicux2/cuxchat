@@ -240,8 +240,8 @@ public class ClientHandler extends Thread {
         }
         byte[] crt = files.get(fileName);
         int kbyte32 = 1024*32;
-        int start = kbyte32 * fileChunk;
-        int end   = kbyte32 * (fileChunk+1);
+        int start = kbyte32 * (fileChunk-1);
+        int end   = kbyte32 * fileChunk;
         for (int i = 0; i < filePart.length; i++){
             if (i+start >= fileBytes){
                 System.out.println(fileBytes+" < "+(i+start));

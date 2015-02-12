@@ -446,8 +446,8 @@ public class ClientChatUI extends javax.swing.JFrame {
             FileInputStream fis;
             try {
                 fis = new FileInputStream(myFile);
-                BufferedInputStream bis = new BufferedInputStream(fis);
-                bis.read(mybytearray,0,mybytearray.length);
+                fis.read(mybytearray);
+                fis.close();
                 int kbyte32 = 1024*32;
                 
                 Double chunks = Math.ceil(mybytearray.length / kbyte32);

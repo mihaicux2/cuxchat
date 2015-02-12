@@ -1,0 +1,31 @@
+FINE [ 12-02-2015 09:50:31 ] : Connected to MySQL Database...
+
+FINE [ 12-02-2015 09:50:47 ] : Client nou (1) : ion
+
+FINE [ 12-02-2015 09:50:48 ] : ion : /list
+
+EXCEPTION [ 12-02-2015 10:13:08 ] : java.net.SocketInputStream.socketRead0(Native Method)
+java.net.SocketInputStream.read(SocketInputStream.java:150)
+java.net.SocketInputStream.read(SocketInputStream.java:121)
+java.net.SocketInputStream.read(SocketInputStream.java:203)
+java.io.DataInputStream.readUnsignedShort(DataInputStream.java:337)
+java.io.DataInputStream.readUTF(DataInputStream.java:589)
+java.io.DataInputStream.readUTF(DataInputStream.java:564)
+cuxchat.handlers.ClientHandler.run(ClientHandler.java:282)
+
+
+FINE [ 12-02-2015 10:13:08 ] : ion a iesit
+
+FINE [ 12-02-2015 10:13:10 ] : SERVERUL SE INCHIDE...
+
+FINE [ 12-02-2015 10:13:10 ] : Socket closed
+
+EXCEPTION [ 12-02-2015 10:13:10 ] : java.net.PlainSocketImpl.socketAccept(Native Method)
+java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:404)
+java.net.ServerSocket.implAccept(ServerSocket.java:545)
+java.net.ServerSocket.accept(ServerSocket.java:513)
+cuxchat.handlers.ServerHandler.run(ServerHandler.java:40)
+
+
+FINE [ 12-02-2015 10:13:13 ] : SERVERUL SE INCHIDE...
+
